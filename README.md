@@ -16,24 +16,48 @@
 - Wireless Communication Systems
 - Communication System Design
 - Cybersecurity Projects
+  
 ## 💻 Tech Stack
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,c,matlab,git,github,linux,docker,arduino,vscode" />
-
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c" />
 </p>
+
+**Additional:** Embedded C • Intel 8086 Assembly
+
+---
+
+### Developer Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,matlab,vscode" />
+</p>
+
+**Also Worked With:** Proteus • Logisim • Arduino IDE • Kali Linux
+
+---
+
+### Cybersecurity
+<p>
+  <img src="https://skillicons.dev/icons?i=linux" />
+</p>
+
+- Wireshark
+- Burp Suite
+- Wazuh SIEM
+
+---
 
 ### Areas of Interest
 
-- 📡 Communication Systems
 - 🛰️ GNSS & Satellite Navigation
+- 📡 Communication Systems
 - 📶 Wireless Communication
 - 🌐 Internet of Things (IoT)
-- 🔐 Cybersecurity
 - 💡 Signal Processing
+- 🔐 Cybersecurity
   
-- ## 🚀 Featured Projects
+  ## 🚀 Featured Projects
 
 ### 🛰️ AI-Based Satellite Trust Scoring & Self-Healing GNSS Navigation Framework
 - Built a multi-constellation GNSS dataset with **75,706+ observations** from GPS, Galileo and GLONASS.
