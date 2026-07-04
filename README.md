@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋, I'm Dhruvi Singh
 
-<!--
-**Charlie808-debug/Charlie808-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Electronics & Communication Engineering Undergraduate | Communication Systems | GNSS Research | Cybersecurity
 
-Here are some ideas to get you started:
+🎓 Fourth-Year B.Tech Student at **Pandit Deendayal Energy University (PDEU), Gujarat**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 Interested in:
+- Communication Systems
+- GNSS & Satellite Navigation
+- Wireless Communication
+- Internet of Things (IoT)
+- Cybersecurity
+
+🌱 Currently working on:
+- AI-Based GNSS Navigation Framework
+- Wireless Communication Systems
+- Communication System Design
+- Cybersecurity Projects
