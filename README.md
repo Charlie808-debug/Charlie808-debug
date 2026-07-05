@@ -44,7 +44,6 @@
 
 - Wireshark
 - Burp Suite
-- Wazuh SIEM
 
 ---
 
@@ -84,7 +83,7 @@
 
 ---
 
-### 🌦️ Smart Weather Monitoring System
+### 🌦️ IoT-Environmental-Data-Acquisition-System
 - Built an ESP32-based IoT platform for monitoring temperature, pressure, UV irradiance and ambient light.
 - Integrated a **16-bit ADS1115 ADC** for high-precision sensing.
 - Developed a real-time Wi-Fi dashboard for environmental monitoring.
@@ -97,16 +96,6 @@
 - 🌐 Internet of Things (IoT)
 - 🔐 Cybersecurity
 - 📈 Signal Processing
-
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Charlie808-debug&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charlie808-debug&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
 
 ## 🔥 Contribution Streak
 
