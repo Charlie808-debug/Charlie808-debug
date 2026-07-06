@@ -1,21 +1,10 @@
 # Hi 👋, I'm Dhruvi Singh
 
-### Electronics & Communication Engineering Undergraduate | Communication Systems | GNSS | Cybersecurity | IoT
+### Electronics & Communication Engineering Undergraduate | Communication Systems | GNSS | Cybersecurity
 
 🎓 Fourth-Year B.Tech Student at **Pandit Deendayal Energy University (PDEU), Gujarat**
 
-🔬 Interested in:
-- Communication Systems
-- GNSS & Satellite Navigation
-- Wireless Communication
-- Internet of Things (IoT)
-- Cybersecurity
-
-🌱 Currently working on:
-- AI-Based GNSS Navigation Framework
-- Wireless Communication Systems
-- Communication System Design
-- Cybersecurity Projects
+Passionate about designing resilient communication systems and exploring cybersecurity, GNSS, wireless networks, and IoT technologies through hands-on projects and research.
   
 ## 💻 Tech Stack
 
@@ -33,7 +22,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,linux,docker,matlab,vscode" />
 </p>
 
-**Also Worked With:** Proteus • Logisim • Arduino IDE • Kali Linux
+**Additional Tools:** Proteus • Logisim • Kali Linux
 
 ---
 
@@ -47,55 +36,98 @@
 
 ---
 
-### Areas of Interest
+## 🎯 Areas of Interest
 
-- 🛰️ GNSS & Satellite Navigation
+- 🔐 Cybersecurity
 - 📡 Communication Systems
-- 📶 Wireless Communication
+- 🛰️ GNSS & Satellite Navigation
+- 📶 Wireless Networks
 - 🌐 Internet of Things (IoT)
-- 💡 Signal Processing
-- 🔐 Cybersecurity
   
-  ## 🚀 Featured Projects
+## 🚀 Featured Projects
 
-### 🛰️ AI-Based Satellite Trust Scoring & Self-Healing GNSS Navigation Framework
-- Built a multi-constellation GNSS dataset with **75,706+ observations** from GPS, Galileo and GLONASS.
-- Developed a Satellite Reliability Index (SRI) for trusted satellite selection.
-- Proposed a self-healing navigation framework for resilient positioning under spoofing and jamming attacks.
+### 📡 [Long-Range Wireless Communication System using ESP32 & LoRa](https://github.com/Charlie808-debug/Long-Range-Wireless-Communication-ESP32-LoRa)
 
----
-### 🔐 Secure Communication Framework for Medical IoT
-- Designed a lightweight secure communication framework using **Elliptic Curve Cryptography (ECC)**.
-- Focused on secure communication for resource-constrained Medical IoT devices.
-- Research manuscript currently under review.
----
-
-### 📡 Long-Range Wireless Communication System using ESP32 & LoRa
-- Developed a bidirectional long-range communication system using **ESP32** and **SX1278 LoRa (433 MHz)**.
-- Implemented ACK-based communication, RSSI monitoring and OLED-based real-time feedback.
-- Designed a lightweight web interface for offline messaging and communication monitoring.
-
----
-### ⚙️ Motor Speed Interface using Intel 8255 & LCD
-- Designed and simulated a motor speed monitoring system using the **Intel 8255 Programmable Peripheral Interface**.
-- Interfaced an LCD to display real-time signed motor speed for forward and reverse operation.
-- Validated peripheral interfacing and hardware functionality through **Proteus** simulation.
+- Developed a bidirectional long-range wireless communication system using ESP32 and SX1278 LoRa (433 MHz).
+- Implemented ACK-based messaging, RSSI monitoring, and OLED-based real-time communication feedback.
+- Built a lightweight web interface for offline messaging and communication monitoring.
+- Structured the project with complete documentation, firmware, hardware setup, and demonstration assets.
 
 ---
 
-### 🌦️ IoT-Environmental-Data-Acquisition-System
-- Built an ESP32-based IoT platform for monitoring temperature, pressure, UV irradiance and ambient light.
-- Integrated a **16-bit ADS1115 ADC** for high-precision sensing.
-- Developed a real-time Wi-Fi dashboard for environmental monitoring.
+### 🌦️ [IoT Environmental Data Acquisition System](https://github.com/Charlie808-debug/IoT-Environmental-Data-Acquisition-System)
+
+- Built an ESP32-based IoT platform for monitoring temperature, barometric pressure, UV irradiance, and ambient light.
+- Integrated a 16-bit ADS1115 ADC to improve measurement accuracy beyond the ESP32's internal ADC.
+- Developed a real-time Wi-Fi dashboard for continuous environmental monitoring.
+- Designed for applications including smart agriculture, industrial monitoring, and weather data acquisition.
 
 ---
-## 🔬 Research Interests
 
-- 🛰️ Global Navigation Satellite Systems (GNSS)
-- 📡 Communication Systems & Wireless Networks
-- 🌐 Internet of Things (IoT)
-- 🔐 Cybersecurity
-- 📈 Signal Processing
+### 🌐 [Web Fingerprint Tool](https://github.com/Charlie808-debug/web_fingerprint_tool)
+
+- Developed a Python-based reconnaissance tool to identify technologies used by target websites.
+- Integrated Wappalyzer with a local Ollama LLM to generate AI-assisted security assessments.
+- Automated technology fingerprinting and generated structured reports for penetration testing and reconnaissance workflows.
+
+---
+
+### 🔐 [Password Leak Checker Bot](https://github.com/Charlie808-debug/password-leak-checker-bot)
+
+- Developed a privacy-preserving password breach checker using the Have I Been Pwned (HIBP) API.
+- Implemented the k-Anonymity model to verify password exposure without transmitting plaintext passwords.
+- Automated password compromise detection while maintaining user privacy and security best practices.
+
+---
+
+### ⚙️ [Motor Speed Interface using Intel 8255 & LCD](https://github.com/Charlie808-debug/Intel-8255-Motor-Speed-Interface)
+
+- Designed and simulated an 8086-based motor speed monitoring system using the Intel 8255 Programmable Peripheral Interface.
+- Implemented I/O-Mapped I/O architecture with dual Intel 8255 PPIs and L293D motor driver.
+- Displayed real-time signed motor speed for clockwise and anticlockwise rotation on a 16×2 LCD.
+- Validated the complete system using Proteus simulation to demonstrate low-level hardware interfacing concepts.
+
+## 🔬 Ongoing Research
+
+- **AI-Based Satellite Trust Scoring & Self-Healing GNSS Navigation Framework**  
+  *Manuscript under review.*
+
+- **Lightweight Cryptographic Framework for Medical IoT**  
+  *Manuscript under review.*
+
+## 📜 Certifications
+
+### 🎓 Academic Programs
+- **IIT Guwahati** – Minor Programme in Cyber Security *
+
+---
+
+### 🤖 Artificial Intelligence
+- **EICT Academy Consortium** – GenAI in Cyber Security
+
+---
+
+### 🛡️ Industry Job Simulations
+- **Deloitte Australia** – Cyber Job Simulation
+- **Mastercard** – Cybersecurity Job Simulation
+- **Tata Consultancy Services (TCS)** – Cybersecurity Analyst Job Simulation
+
+---
+
+### 🔐 Cybersecurity Training
+- **NIT Surat** – Ethical Hacking Workshop
+
+---
+
+### ⚙️ Technical Certifications
+- **NPTEL** – Introduction to Incubation & Entrepreneurship
+- **Pandit Deendayal Energy University (PDEU)** – Additive Manufacturing
+
+---
+
+### 🎨 Design
+- **Udemy** – Advanced Figma UI/UX Design
+
 
 ## 🔥 Contribution Streak
 
@@ -103,6 +135,14 @@
 
 <img src="https://streak-stats.demolab.com?user=Charlie808-debug&theme=github-dark&hide_border=true"/>
 
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Charlie808-debug&show_icons=true&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charlie808-debug&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ## 📫 Connect With Me
@@ -119,9 +159,13 @@
 
 </p>
 
+<a href="https://github.com/Charlie808-debug">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Charlie808-debug&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Charlie808-debug&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </p>
 
